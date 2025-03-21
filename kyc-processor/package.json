@@ -1,0 +1,23 @@
+{
+  "name": "kyc-processor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParthGoswami13/Risk-Profiling-for-banking-system.git"
+  },
+  "keywords": [
+    "kyc",
+    "schema"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParthGoswami13/Risk-Profiling-for-banking-system/issues"
+  },
+  "homepage": "https://github.com/ParthGoswami13/Risk-Profiling-for-banking-system#readme"
+}
